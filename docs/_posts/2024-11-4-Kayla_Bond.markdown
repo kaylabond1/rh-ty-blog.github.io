@@ -5,11 +5,8 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
-* burger
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
 
 
 ## Monday
@@ -21,16 +18,8 @@ On Monday morning we all came into the room together for the first time. We did 
 ## Tuesday
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+On Tuesday, we started by having a meeting about what we did yesterdy and talking about thedifferent complains from staff members after we left. 
+Then we got straight into a type of coding called bash where we learned how to do loads of new things. After that we signed into our blogs and learned how to do different things on them, then we went for lunch. After lunch we had two different talks, one about college student life, and one about woman in tech. After that we finished up for the day.
 
 ---
 ## Wednesday
