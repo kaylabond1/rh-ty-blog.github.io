@@ -21,7 +21,7 @@ On Tuesday, we stared the day with a stand up meeting where we talked about what
 
 ---
 ## Wednesday
-On Wednesday, we started with a meeting again and wrote our blogs. We listened to a talk about the different jobs in the industry and all different apps and things. After that we had a competition of who can make a marshmallow higher off the ground from spaggetti and selotape. Then 
+On Wednesday, we started with a meeting again and wrote our blogs. We listened to a talk about the history of tech and all different apps and things. After that we had a competition of who can make a marshmallow higher off the ground from spaggetti and selotape. Then we made rollercoasters out of paper straws and selotape. 
 
 
 ---
