@@ -26,19 +26,7 @@ On Wednesday, we started with a meeting again and wrote our blogs. We listened t
 
 ---
 ## Thursday
-![Red Hat](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb "Code")
-
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+On Thursday, we had breakfast at 10 oclock. Then we had two talks about AI and we learned how to add knowledge to the AI dreated by redhat. After lunch we made a presentation about rain gardens and presented them to the class. I drew a diagram of a rain garden. Then we had a talk about sports telemetry.
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
